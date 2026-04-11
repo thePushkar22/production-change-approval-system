@@ -1,0 +1,5 @@
+action: scale
+resource: deployment
+name: payment-service
+replicas: 10
+environment: production
