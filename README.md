@@ -1,5 +1,5 @@
 # Production Change Approval System
-![Project Overview](Images/swaggeroverview.png)
+![Project Overview](Images/Swagger-overview.png)
 A rule-based system that validates infrastructure changes before execution. The project demonstrates how production deployment requests can be checked against predefined rules before approval.
 
 ## Features
