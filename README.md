@@ -9,7 +9,7 @@
 
 ![Response JSON](Images/response-json.png)
 
-A rule-based system that validates infrastructure changes before execution. The project demonstrates how production deployment requests can be checked against predefined rules before approval.
+A rule-based system for validating infrastructure change requests before deployment. It demonstrates how production changes can be evaluated against predefined approval rules.
 
 ## Features
 
@@ -71,3 +71,6 @@ Depending on the request, the system returns one of the following:
 - AUTO-APPROVED
 - APPROVAL REQUIRED
 - BLOCKED
+## Author
+
+Pushkar Kadam
